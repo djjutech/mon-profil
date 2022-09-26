@@ -1,0 +1,62 @@
+h1	{
+	color: midnightblue;
+	background-color: white;
+	font-family: 'Cinzel', monospace;
+	text-align: center;
+}
+
+p   {
+	font-family: 'Cinzel', monospace;
+	text-align: center;
+}
+
+a   {
+	font-family: 'Cinzel',monospace;
+	text-align: center;
+}
+
+img	{
+	width: 120px;
+	padding: 20px;
+	margin: 16px;
+	box-shadow: 10px 20px 30px rgda(0, 0, 0.3);
+	border-radius: 6px;
+	align-content: center;
+}
+
+div	{
+	width: 800px;
+	border-radius: 20px;
+	box-shadow: 10px 20px 30px rgda(0, 0, 0.3);
+	text-align: center;
+}
+
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+
+.card-white {
+	background-color: white;
+	padding: 20px;
+	margin: 16px;
+	box-shadow: 10px 20px 30px rgda(0, 0, 0.3);
+	border-radius: 6px;
+	text-align: center;
+}
+
+#card-name {
+	font-size: 54px
+}
+
+#card-img {
+	background-image: url("plage.jpeg");
+	color: black;
+	background-size: cover;
+	background-position: center;
+}
+
+#card-gradient {
+	color: black;
+	background-color: linear-gradient(0deg, blue0%, green75%);
+}
